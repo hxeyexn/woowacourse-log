@@ -10,22 +10,22 @@
 <br>
 
 ## 목차
-- [Level1: Kotlin, MVC 학습]()
+- [Level1: Kotlin, MVC 학습](https://github.com/hxeyexn/woowacourse-log/blob/main/README.md#level-1)
   - **미션**: 자동차 경주, 로또, 블랙잭, 오목
   - **방과후 수업**: 팩토리 함수, 의존성과 DIP  
 
-- [Level2: Android, MVP, MVVM 학습]()
+- [Level2: Android, MVP, MVVM 학습](https://github.com/hxeyexn/woowacourse-log/blob/main/README.md#level-2)
   - **미션**: 영화 티켓 예매, 영화 극장 선택, 쇼핑 장바구니, 쇼핑 주문
   - **테코톡**: Android UI Test
 
-- [Level3: 서비스 런칭]()
+- [Level3: 서비스 런칭](https://github.com/hxeyexn/woowacourse-log/blob/main/README.md#%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
    - **스타카토**: 추억하고 싶은 일상을 '즉시 간편하게' 지도 위에 기록할 수 있는 서비스
 
-- [Level4: DI, View, Compose]()
+- [Level4: DI, View, Compose](https://github.com/hxeyexn/woowacourse-log/blob/main/README.md#level-4)
   - **미션**: 만들면서 배우는 DI, 뷰 챌린지, Compose 회원가입
   - 테크니컬 라이팅: ObservableField와 LiveData의 이해(+ Data Binding와 결합하기)
 
-- [글쓰기 미션: 유연성 강화]()
+- [글쓰기 미션: 유연성 강화](https://github.com/hxeyexn/woowacourse-log/blob/main/README.md#%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
 
 <br>
 
